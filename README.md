@@ -85,12 +85,21 @@ data/           dataset instructions and expected layout
 
 ## Citation
 
-Preethi S, Meeradevi T, Arun Prakash A. *uTHCD-C: A Corruption-Robustness
-Benchmark for Tamil Handwritten Character Recognition.*
+If you use uTHCD-C, please cite our arXiv paper:
 
-- Preethi S, Meeradevi T — Department of Electronics and Communication,
-  Kongu Engineering College, Erode, Tamil Nadu, India
-- Arun Prakash A — AI4Bharat, Indian Institute of Technology Madras, Chennai, India
+Preethi S, Meeradevi T, Arun Prakash A. *uTHCD-C: A Corruption-Robustness
+Benchmark for Tamil Handwritten Character Recognition.* arXiv:2610.36850, 2026.
+<https://arxiv.org/abs/2610.36850>
+
+```bibtex
+@article{preethi2026uthcdc,
+  title   = {{uTHCD-C}: A Corruption-Robustness Benchmark for Tamil Handwritten Character Recognition},
+  author  = {Preethi S and Meeradevi T and Arun Prakash A},
+  journal = {arXiv preprint arXiv:2610.36850},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2610.36850}
+}
+```
 
 ## License
 
